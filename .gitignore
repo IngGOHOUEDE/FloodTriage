@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+.venv/
+venv/
+env/
+
+# Jupyter / Colab
+.ipynb_checkpoints/
+*.ipynb
+
+# Outputs — large artefacts, regenerated at runtime
+outputs/
+ft_outputs/
+nh_runs/
+nh_data/
+
+# Data — keep the folder stub but not the raw CSVs (can be large)
+data/Data_Save_1965_2011/*.csv
+
+# Model checkpoints
+*.pt
+*.pth
+*.pkl
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
