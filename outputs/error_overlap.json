@@ -1,0 +1,15 @@
+{
+  "n_valid": 1338,
+  "n_flood_days": 143,
+  "n_nonflood_days": 1195,
+  "FAR_Ratio_S1": 0.5535714285714286,
+  "FAR_Ratio_S2": 0.3961038961038961,
+  "FPR_Rate_S1": 0.05188284518828452,
+  "FPR_Rate_S2": 0.05104602510460251,
+  "flood_days": {
+    "both_caught": 46,
+    "both_missed": 46,
+    "only_s1": 4,
+    "only_s2": 47
+  }
+}
